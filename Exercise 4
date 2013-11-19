@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html>
+    
+    <head>
+        <title>Benjamin Elliott</title>
+        
+        <link rel="stylesheet" href="css/index.css" />
+        
+        
+    </head>
+    
+    <body>
+        
+        <header>
+            
+            
+        <img src="img/benjaminelliott.jpg" width="400" alt="Benjamin Elliott" />
+                
+                                                                      
+        </header>
+        
+        <nav>
+                <a href="index.html">About</a>
+                <a href="resume.html">Resume</a>
+                <a href="portfolio.html">Portfolio</a>
+                <a href="connect.html">Connect</a>
+        </nav>
+        
+        <article>
+            <h1>
+                About Me
+            </h1>
+            <p>
+        
+    My name is Benjamin Elliott (Ben), and I am a first-year masters student currently studying Mass Communication with a focus in Telecommunication at the University of Florida. While I am originally from Palm Bay, FL, I have been in Gainesville for the past seven years working on my AA, my Bachelor's, and now my Master's degree. My focus in school has been in video production, audience analysis, and film theory. I have worked for UF's department of Recreational Sports the entire time I've been in college, and consider myself very fortunate to have worked at a place where I could establish so many great connections and practice my leadership skills on a daily basis. My time at UF has cemented my love for the media entertainment industry, and I look forward to transitioning into that workforce soon. 
+           
+                    </p>
+           <p>
+            Unfortunately, my time in college has not been what most people think of when they think of "college life." My brother was in a near fatal car accident at the end of my first semester, and spent months in various hospitals. I spent most of the following year traveling to Orlando and eventually back to Palm Bay to visit him as much as possible. Just as my brother recovered, my mother was diagnosed with terminal brain cancer. The doctors only gave her 9 months to live. She spent the next 3 years proving the doctors wrong, fighting all the way. Our family came together more than you could ever hope for to help her fight, but effort doesn't always equal the result that you want, and sadly my mother passed away last summer. I plan on working to bring smiles to people's faces just as she always brought one to mine.
+           
+            </p>
+           
+            <center>
+             <img src="img/ben.jpg" width="400" alt="Ben" align="center" />
+            </center>
+            
+        </article>
+        
+        <h2>
+        Exercise 4 Text
+        
+        </h2>
+        
+        
+        
+        <footer>
+            
+            <p>
+                Phone: 321-412-7815
+                </p>
+               <p> Email: <a href="mailto:benjamin.d.elliott@gmail.com">
+Benjamin.D.Elliott@gmail.com</a></p>
+            <p>
+                Created by Benjamin Elliott &copy; 2013
+            </p>
+        
+        </footer>
+        
+        
+    </body>
+    
+</html>
